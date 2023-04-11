@@ -1,0 +1,42 @@
+    *
+    {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+    header{
+        text-align: center;
+    }
+    .logo{
+        font-weight: bold;
+        font-size: 2em;
+        text-decoration: none;
+    }
+    span{
+        font-size: 4em;
+    }
+    .container img{
+    width: 300px;
+    }
+    #bloc1{
+        display: flex;
+        margin-left: 200px;
+    }
+    #bloc1 p{
+        margin-left: 20 px;
+    }
+    .quantite{
+        width: 45px;
+        height: 35px;
+        text-align: center;
+        border: none;
+    }
+    .totalprix{
+        width: 45px;
+        height: 35px;
+        text-align: center;
+        border: none;  
+    }
+    i{
+        color:red;
+    }
